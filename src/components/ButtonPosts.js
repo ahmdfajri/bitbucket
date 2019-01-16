@@ -91,7 +91,6 @@ class ButtonPosts extends Component {
                             </tr> {data}
                         </tbody> }
                     </table>
-                    <button>Add</button>
                 </center>
             </div>);
     }

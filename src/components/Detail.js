@@ -64,7 +64,6 @@ console.log(x)
                                 <th>Edit</th>
                             </tr> {data}
                         </tbody> }
-                       
                     </table>
                 </center>
             </div>);
